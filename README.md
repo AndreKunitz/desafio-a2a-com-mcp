@@ -84,7 +84,7 @@ O agente usa um cliente MCP cru em vez do cliente do SDK de propósito: o client
 ## Saída do validador
 
 ```
-trace-id desta execucao: 993c2f9c00ce2936b9a272e40a06f4e4
+trace-id desta execucao: fafe500c6d92650dc600d6431ca3f74e
 procure esse valor no stderr do servidor MCP para conferir a propagacao do traceparent.
 
 PASS 01 tools/list traz as tres tools
